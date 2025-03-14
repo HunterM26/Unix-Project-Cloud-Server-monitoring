@@ -1,0 +1,11 @@
+﻿[Unit]
+Description=Automated Stress Test
+After=network.target
+
+[Service]
+ExecStart=/bin/bash /home/user/scripts/stress-test.sh
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
