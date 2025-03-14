@@ -8,7 +8,7 @@ This project provides a remote dashboard to monitor cloud-based Linux servers. I
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/yourusername/cloud-server-monitoring.git
-cd cloud-server-monitoring
+cd Unix-Project-Cloud-Server-monitoring
 ```
 
 ### 2️⃣ Install Dependencies
